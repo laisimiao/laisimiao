@@ -5,7 +5,7 @@
 - 🔭 I’m currently studying in IIAU-Lab, DUT(Dalian University of Technology)
 - 📫 How to reach me: laisimiao@mail.dlut.edu.cn
 - 📖 Here is my blog page: https://blog.csdn.net/laizi_laizi
-- 👯 I’m looking to collaborate on SOT, MultiModel leanring, VLT ... 
+- 👯 I’m looking to collaborate on SOT, MultiModel learning, VLT ... 
 
 <!--
 **laisimiao/laisimiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
